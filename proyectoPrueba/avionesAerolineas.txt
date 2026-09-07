@@ -1,3 +1,0 @@
-N101;Airbus;A320;2020;COPA 
-N102;Airbus;A320;2020;COPA 
-XC301;Boeing;737;2020;Avianca
