@@ -1,0 +1,4 @@
+COPA;Ciudad de Panama PTY, SJO
+Avianca;San Jose Costa Rica (SJO)
+LATAM;Lima Peru (LIM)
+
